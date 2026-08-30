@@ -9,3 +9,7 @@ Browser entrypoints:
 - Example AOI run bundle: https://georgemadlis.github.io/eudr-dmi-gil-digital-twin-ai-mirror/site/aoi_reports/runs/example/report.html
 
 Do not use `github.com/.../tree/...` paths as website URLs; browse the Pages URLs above instead.
+
+## License
+
+MIT, matching the source repository (eudr-dmi-gil-digital-twin). See [LICENSE](LICENSE).
